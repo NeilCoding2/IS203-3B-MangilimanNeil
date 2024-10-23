@@ -1,0 +1,7 @@
+body{
+    background-color: #D8D2C2;
+}
+.table table-bordered{
+border-color: black;
+border-width: 20px;
+}
